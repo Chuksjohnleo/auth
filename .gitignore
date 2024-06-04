@@ -1,4 +1,5 @@
 /node_modules
 /vendor
+/public/css/tailwind.css
 clamp.php
 .env
