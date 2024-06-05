@@ -2,4 +2,5 @@
 /vendor
 /public/css/tailwind.css
 clamp.php
+draggable.php
 .env

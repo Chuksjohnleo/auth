@@ -21,11 +21,11 @@
                 class="block mt-4 lg:inline-block lg:mt-0 text-tertiary-color hover:text-white mr-4">
                 Docs
             </a>
-            <a href="#responsive-header"
+            <a href="draggables.php"
                 class="block mt-4 lg:inline-block lg:mt-0 text-tertiary-color hover:text-white mr-4">
                 Examples
             </a>
-            <a href="#responsive-header"
+            <a href="clamp.php"
                 class="block mt-4 lg:inline-block lg:mt-0 text-tertiary-color hover:text-white">
                 Blog
             </a>
